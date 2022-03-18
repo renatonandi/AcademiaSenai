@@ -8,6 +8,17 @@ public class Professor {
 	
 	private String nomeCompleto;
 	
+	private LocalDate dataDeCasamento;
+	
+	
+	public LocalDate getDataDeCasamento() {
+		return dataDeCasamento;
+	}
+
+	public void setDataDeCasamento(LocalDate dataDeCasamento) {
+		this.dataDeCasamento = dataDeCasamento;
+	}
+
 	public Integer getId() {
 		return id;
 	}
