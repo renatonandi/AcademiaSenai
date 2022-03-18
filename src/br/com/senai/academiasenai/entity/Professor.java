@@ -7,8 +7,6 @@ public class Professor {
 	private Integer id;
 	
 	private String nomeCompleto;
-
-	private LocalDate dataDeAdmicao;
 	
 	public Integer getId() {
 		return id;
