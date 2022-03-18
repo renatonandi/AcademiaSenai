@@ -8,7 +8,7 @@ public class Professor {
 	
 	private String nomeCompleto;
 
-	private LocalDate dataDeAdmicao;
+	private LocalDate dataDe;
 	
 	private LocalDate dataDeCasamento;
 	
