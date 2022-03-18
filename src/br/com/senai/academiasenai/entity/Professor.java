@@ -7,6 +7,8 @@ public class Professor {
 	private Integer id;
 	
 	private String nomeCompleto;
+
+	private LocalDate dataDeAdmicao;
 	
 	private LocalDate dataDeCasamento;
 	
