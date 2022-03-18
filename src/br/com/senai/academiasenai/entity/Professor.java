@@ -7,8 +7,11 @@ public class Professor {
 	private Integer id;
 	
 	private String nomeCompleto;
+<<<<<<< HEAD
 
 	private LocalDate dataDe;
+=======
+>>>>>>> parent of cafb501 (Revert "Atributo removido")
 	
 	private LocalDate dataDeCasamento;
 	
